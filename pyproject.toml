@@ -12,7 +12,7 @@ python = "^3.8.1"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^6.0.0"
-flake8-bugbear = "^23.1.20"
+flake8-bugbear = "^23.2.13"
 flake8-comprehensions = "^3.10.1"
 flake8-simplify = "^0.19.3"
 pep8-naming = "^0.13.3"
